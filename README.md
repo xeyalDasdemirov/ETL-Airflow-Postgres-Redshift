@@ -11,4 +11,8 @@ I will describe how we can load data from Postgres to Redhsift using Amazon Mana
 
 4. I prepared 2 dag files: etl_full_load.py and etl_incremental_load.py. And I added to my S3 Dag folder.
 
-5. I ran 
+
+<img width="1511" alt="1" src="https://user-images.githubusercontent.com/28351206/210112499-3a968391-ffda-4d62-8715-6073444312f8.png">
+
+
+<img width="1511" alt="2" src="https://user-images.githubusercontent.com/28351206/210112519-77203f5d-2219-42d0-9301-b16db6e9082b.png">
