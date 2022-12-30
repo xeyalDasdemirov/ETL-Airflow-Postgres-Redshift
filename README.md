@@ -9,4 +9,6 @@ I will describe how we can load data from Postgres to Redhsift using Amazon Mana
 
 3. Create Redshift cluster https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2104f4824168/en-US/workshop-2-2-2/setup/redshift
 
-4. 
+4. I prepared 2 dag files: etl_full_load.py and etl_incremental_load.py. And I added to my S3 Dag folder.
+
+5. I ran 
