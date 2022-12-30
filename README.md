@@ -16,3 +16,7 @@ I will describe how we can load data from Postgres to Redhsift using Amazon Mana
 
 
 <img width="1511" alt="2" src="https://user-images.githubusercontent.com/28351206/210112519-77203f5d-2219-42d0-9301-b16db6e9082b.png">
+
+5. And here is my results: 
+
+<img width="1152" alt="3" src="https://user-images.githubusercontent.com/28351206/210112669-d2a252ba-ada0-4044-9d59-547d1d95d1b0.png">
